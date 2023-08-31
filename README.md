@@ -3,3 +3,5 @@
 ### I attached some pictures from this application.
 
 ![picture11](https://github.com/shahriar00/Plant-Apps-UI/assets/70763173/2496c4f0-6376-41e1-9dda-f018f0de3093)
+
+![picture12](https://github.com/shahriar00/Plant-Apps-UI/assets/70763173/484a7ca6-c44e-4205-8f8c-474f6cd62913)
